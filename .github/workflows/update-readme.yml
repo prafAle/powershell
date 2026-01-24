@@ -1,6 +1,23 @@
-- name: Generate Project Grid
+name: Auto-update Root README Summary
+
+on:
+  push:
+    paths:
+      - "**/README.md"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Project Grid
         run: |
-          # 1. Trova il README della rootn
+          # 1. Trova il README della root
           ROOT_README=$(find . -maxdepth 1 -iname "readme.md" | head -n 1)
           
           if [ -z "$ROOT_README" ]; then
@@ -22,7 +39,7 @@
             SUB_README=$(find "$dir" -maxdepth 1 -iname "readme.md" | head -n 1)
             
             if [ -f "$SUB_README" ]; then
-              # Estrazione Icona: cerchiamo il primo carattere speciale/emoji in modo compatibile
+              # Estrazione Icona: cerca emoji o usa default
               icon=$(grep -o -m 1 "[^[:alnum:][:space:][:punct:]]" "$SUB_README" | head -n 1)
               if [ -z "$icon" ]; then icon="📂"; fi
               
@@ -39,17 +56,19 @@
 
           # 3. Creazione file tabella temporaneo
           echo -e "$HEADER\n$SEPARATOR$ROWS" > table_content.txt
-          echo "Generated table content:"
-          cat table_content.txt
 
-          # 4. Iniezione nel README usando marcatori espliciti
+          # 4. Iniezione nel README
           START_TAG=""
           END_TAG=""
 
           if grep -q "$START_TAG" "$ROOT_README"; then
-            # Sostituzione sicura: crea un file temporaneo e poi sovrascrive
             sed -e "/$START_TAG/,/$END_TAG/!b" -e "/$START_TAG/!d;r table_content.txt" -e "a $END_TAG" "$ROOT_README" > README.tmp && mv README.tmp "$ROOT_README"
             echo "Successfully updated $ROOT_README"
           else
             echo "Warning: Tags $START_TAG not found in $ROOT_README."
           fi
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: update directory summary [automated]"
