@@ -1,6 +1,6 @@
 - name: Generate Project Grid
         run: |
-          # 1. Trova il README della root
+          # 1. Trova il README della rootn
           ROOT_README=$(find . -maxdepth 1 -iname "readme.md" | head -n 1)
           
           if [ -z "$ROOT_README" ]; then
