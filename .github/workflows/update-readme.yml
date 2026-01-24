@@ -1,56 +1,53 @@
 name: Auto-update Root README Summary
 
-# Il workflow si attiva su ogni push che modifica un README nelle sottocartelle
 on:
   push:
     paths:
       - "**/README.md"
-  workflow_dispatch: # Permette l'avvio manuale dalla scheda Actions
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permesso esplicito di scrittura
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: Generate Project Grid
         run: |
-          # ===========================================================================
-          # CONFIGURAZIONE ELEMENTI (MODIFICABILI)
-          # ===========================================================================
-          DEFAULT_ICON="📂"         # Icona di default se non trovata nel README
-          TABLE_HEADER="| Type | Tool | Description | Status |"
-          TABLE_SEP="| :---: | :--- | :--- | :--- |"
-          # ===========================================================================
+          echo "Building table..."
+          HEADER="| Type | Tool | Description | Status |"
+          SEPARATOR="| :---: | :--- | :--- | :--- |"
+          ROWS=""
 
-          echo "Generating project summaries..."
-          
-          CONTENT="$TABLE_HEADER\n$TABLE_SEP"
-
-          # Scansione delle sottocartelle
+          # Scansione sottocartelle
           for dir in */; do
             foldername=${dir%/}
+            if [[ "$foldername" == .* ]] || [[ "$foldername" == "monkeyjob" ]]; then continue; fi
             
-            # Elabora solo se esiste un README.md interno
             if [ -f "$dir/README.md" ]; then
+              # Estrazione Icona
+              icon=$(grep -oE "[[:unicode:]]|[\x{1F300}-\x{1F9FF}]" "$dir/README.md" | head -n 1 || echo "📂")
+              # Estrazione Descrizione (rimuove i pipe per non rompere la tabella)
+              desc=$(grep -v '^#' "$dir/README.md" | grep -v '^$' | head -n 1 | sed 's/|/\\|/g')
+              # Estrazione Status
+              stat=$(grep -i "Status:" "$dir/README.md" | cut -d':' -f2 | xargs || echo "Stable")
               
-              # 1. ESTRAZIONE ICONA: Cerca una emoji all'inizio del file README
-              icon=$(grep -oE "[[:unicode:]]|[\x{1F300}-\x{1F9FF}]" "$dir/README.md" | head -n 1 || echo "$DEFAULT_ICON")
-              
-              # 2. ESTRAZIONE DESCRIZIONE: Prende la prima riga di testo (non titolo)
-              description=$(grep -v '^#' "$dir/README.md" | grep -v '^$' | head -n 1 | sed 's/|/\\|/g')
-              
-              # 3. ESTRAZIONE STATUS: Cerca la riga "Status:"
-              status=$(grep -i "Status:" "$dir/README.md" | cut -d':' -f2 | xargs || echo "Unknown")
-              
-              # Costruzione riga tabella
-              CONTENT="$CONTENT\n| $icon | [**$foldername**](./$dir) | $description | $status |"
+              ROWS="${ROWS}\n| $icon | [**$foldername**](./$dir) | $desc | $stat |"
             fi
           done
 
-          # Iniezione del contenuto nel README.md tramite Perl (gestisce multi-riga)
-          perl -0777 -i -pe "s/().*()/\$1\n$CONTENT\n\$2/sg" README.md
+          # Creazione file tabella temporaneo
+          echo -e "$HEADER\n$SEPARATOR$ROWS" > table_content.txt
+
+          # Debug: Mostra cosa è stato generato nei log di GitHub
+          cat table_content.txt
+
+          # Sostituzione mirata usando sed (più semplice di perl in questo caso)
+          sed -i '//,//{ //{n; r table_content.txt
+          }; //p; d; }' README.md
 
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
