@@ -1,18 +1,27 @@
-# [Project Name]
+# 🛠️ PowerShell Optimization Suite
 
-Breve descrizione del repository.
+Benvenuto nella mia raccolta di script PowerShell. Questi strumenti sono progettati per automatizzare task ripetitivi e ottimizzare il workflow su Windows.
 
 ---
 
 ## 📂 Project Inventory
+L'elenco sottostante viene aggiornato automaticamente ogni volta che aggiungo un nuovo script.
+
 | Type | Tool | Description | Status |
 | :---: | :--- | :--- | :--- |
-| ⏳ | Scanning... | Please wait for initial action run | |
+| ⏳ | Scanning... | Please wait for the next automation run | |
 ---
 
 ## 🛠 Prerequisites
-- Requirement 1
-- Requirement 2
+Per eseguire questi script correttamente, assicurati di:
+- Avere **PowerShell 5.1** o superiore.
+- Impostare la Execution Policy a `Bypass` o `RemoteSigned` se necessario.
+- Alcuni tool (come il convertitore MSG) richiedono **Microsoft Outlook** installato localmente.
 
 ## 📝 License
-MIT License
+Distribuito sotto licenza **MIT**. Vedi il file `LICENSE` per i dettagli.
+
+---
+<p align="center">
+  <i>"I build tools to save time because I’m too smart to do the same thing twice."</i>
+</p>
