@@ -1,11 +1,11 @@
 # 🛠️ PowerShell Optimization Suite
 
-Benvenuto nella mia raccolta di script PowerShell. Questi strumenti sono progettati per automatizzare task ripetitivi, gestire flussi di dati e ottimizzare il workflow su sistemi Windows.
+Welcome to my collection of PowerShell scripts. These tools are designed to automate repetitive tasks, manage data flows, and optimize workflows on Windows systems.
 
 ---
 
 ## 📂 Project Inventory
-L'elenco sottostante viene generato e aggiornato automaticamente dalla GitHub Action dedicata.
+The list below is automatically generated and updated by the dedicated GitHub Action.
 
 | Type | Tool | Description | Status |
 | :---: | :--- | :--- | :--- |
@@ -13,16 +13,16 @@ L'elenco sottostante viene generato e aggiornato automaticamente dalla GitHub Ac
 ---
 
 ## ⚙️ How to Use
-1. **Clone** il repository o scarica lo script specifico.
-2. Assicurati che la **Execution Policy** di PowerShell permetta l'esecuzione (es. `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`).
-3. Leggi il `README.md` all'interno della cartella di ogni tool per le istruzioni specifiche.
+1. **Clone** the repository or download the specific script.
+2. Make sure PowerShell's **Execution Policy** allows execution (es. `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`).
+3. Read the `README.md` inside each tool's folder for specific instructions.
 
 ## 📋 Prerequisites
-- **PowerShell 5.1** o superiore.
-- Alcuni script potrebbero richiedere moduli aggiuntivi o software locale (es. Microsoft Outlook).
+- **PowerShell 5.1** or higher.
+- Some scripts may require additional modules or local software (e.g., Microsoft Outlook).
 
 ## 📝 License
-Distribuito sotto licenza **MIT**. Vedi il file `LICENSE` per maggiori dettagli.
+Distributed under the **MIT** license. See the `LICENSE` file for more details.
 
 ---
 <p align="center">
