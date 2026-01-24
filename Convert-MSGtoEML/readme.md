@@ -1,12 +1,12 @@
 # 🚀 MSG to EML Converter
 
-Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects.
+Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**.
 
 ## 📋 Features
-- **Batch Processing**: Converts all .msg files in the current folder at once.
-- **Smart Archiving**: Automatically moves original files to a timestamped backup folder.
-- **Dependency Check**: Verifies if Microsoft Outlook is installed before starting.
-- **Auto-Admin**: Automatically requests elevation to handle file permissions.
+- **Batch Processing**: Converts all .msg files in the script directory automatically.
+- **Non-Destructive Workflow**: Original files are moved to a backup folder, never deleted.
+- **Dependency Awareness**: Checks for Microsoft Outlook installation before execution.
+- **Clean Environment**: Keeps your workspace tidy by organizing outputs into timestamped folders.
 
 ## ⚙️ Technical Details
 - **Status:** Stable
@@ -14,10 +14,22 @@ Automated PowerShell tool to convert Outlook .msg files to universal .eml format
 - **Version:** 1.0.0
 - **Requirements**: Microsoft Outlook (installed locally)
 
-## 📸 Screenshots
-*(Add screenshots of the console summary here)*
+## 🛠️ Installation & Setup
+1. **Download**: Get the `Convert-MSGtoEML.ps1` file.
+2. **Location**: Place the script in the same folder where your `.msg` files are located.
+3. **Prerequisites**: Ensure Microsoft Outlook is installed on your Windows machine.
 
-## 🛠️ Installation
-1. Download `Convert-MSGtoEML.ps1`.
-2. Place it in the folder containing your `.msg` files.
-3. Right-click and "Run with PowerShell".
+## 🚀 How to Use
+1. **Execute**: Right-click the script and select **"Run with PowerShell"**.
+2. **Elevation**: The script will automatically request Administrator privileges to ensure correct file handling.
+3. **Automated Flow**: The tool identifies all `.msg` files and processes them sequentially.
+
+## 📂 Workflow & Results
+The tool organizes everything inside a `monkeyjob/` directory:
+- **EML Output**: Converted files are saved in `monkeyjob/[timestamp]-eml/`.
+- **MSG Backup**: Original files are moved to `monkeyjob/[timestamp]-msg/`.
+- **Logging**: Real-time visual feedback is provided in the console (Green for success, Red for errors).
+
+## ⚠️ Error Handling
+- **Missing Outlook**: The script stops and notifies you if Outlook is not found.
+- **Corrupted Files**: If a file fails to convert, the script logs the error and continues with the next one, providing a final summary of failed items.
