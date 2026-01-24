@@ -47,9 +47,12 @@ jobs:
             // {p=1}
             p' "$ROOT_README" > temp_readme.md && mv temp_readme.md "$ROOT_README"
 
-      - name: Commit and Push changes
+- name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "docs: update directory summary [automated]"
-          # Evitiamo di caricare i file temporanei se rimangono
-          file_pattern: 'README.md readme.md'
+          # Usiamo il punto per dire "aggiungi tutto quello che è cambiato"
+          file_pattern: '.' 
+          status_options: '--untracked-files=no'
+          # Forza l'uso del file corretto rilevato dallo script
+          repository: .
