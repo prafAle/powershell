@@ -19,7 +19,6 @@ jobs:
         run: |
           ROOT_README=$(find . -maxdepth 1 -iname "readme.md" | head -n 1)
           
-          # Costruzione Tabella
           HEADER="| Type | Tool | Description | Status |"
           SEP="| :---: | :--- | :--- | :--- |"
           ROWS=""
@@ -37,13 +36,12 @@ jobs:
             fi
           done
 
-          # Crea il blocco completo
+          # Prepariamo la tabella completa inclusi i tag
           echo -e "\n$HEADER\n$SEP$ROWS\n" > new_table.txt
 
-          # Sostituzione "atomica" del blocco
-          # Questo comando legge il file, trova il blocco tra i tag e lo sostituisce in un colpo solo
-          perl -0777 -pi -e 's/.*?/`cat new_table.txt`/sge' "$ROOT_README"
-
+          # VERSIONE CORRETTA: Sostituzione mirata del blocco tag-to-tag
+          export TABLE_CONTENT=$(cat new_table.txt)
+          perl -0777 -i -pe 'BEGIN{$table=$ENV{TABLE_CONTENT}} s/.*?/$table/sg' "$ROOT_README"
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
