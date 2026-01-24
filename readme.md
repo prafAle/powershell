@@ -1,26 +1,7015 @@
-# 🛠️ PowerShell Optimization Suite
 
-Benvenuto nella mia raccolta di script PowerShell. Questi strumenti sono progettati per automatizzare task ripetitivi e ottimizzare il workflow su Windows.
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
 
----
 
-## 📂 Project Inventory
-L'elenco sottostante viene aggiornato automaticamente.
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
 
----
 
-## ⚙️ How to Use
-1. **Clone** il repository o scarica lo script specifico.
-2. Assicurati che la **Execution Policy** permetta l'esecuzione.
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
 
-## 📋 Prerequisites
-- **PowerShell 5.1**+
-- **Microsoft Outlook** (per il convertitore MSG).
 
-## 📝 License
-Distribuito sotto licenza **MIT**.
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
 
----
-<p align="center">
-  <i>"I build tools to save time because I’m too smart to do the same thing twice."</i>
-</p>
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
+
+| Type | Tool | Description | Status |
+| :---: | :--- | :--- | :--- |
+|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
+
