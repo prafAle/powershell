@@ -37,7 +37,7 @@ jobs:
             fi
           done
 
-          # Costruiamo la tabella in una variabile
+          # Costruiamo la tabella in una variabilen
           TABLE=$(echo -e "$HEADER\n$SEPARATOR$ROWS")
 
           # Usiamo un trucco con AWK: è molto più affidabile di SED per sostituire blocchi di testo
