@@ -1,23 +1,6 @@
-name: Auto-update Root README Summary
-
-on:
-  push:
-    paths:
-      - "**/README.md"
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Generate Project Grid
+- name: Generate Project Grid
         run: |
-          # 1. Trova il README della root (indipendentemente da maiuscole/minuscole)
+          # 1. Trova il README della root
           ROOT_README=$(find . -maxdepth 1 -iname "readme.md" | head -n 1)
           
           if [ -z "$ROOT_README" ]; then
@@ -30,39 +13,43 @@ jobs:
           SEPARATOR="| :---: | :--- | :--- | :--- |"
           ROWS=""
 
-          # 2. Scansione sottocartelle (escludendo cartelle nascoste e monkeyjob)
+          # 2. Scansione sottocartelle
           for dir in */; do
             foldername=${dir%/}
-            if [[ "$foldername" == .* ]] || [[ "$foldername" == "monkeyjob" ]]; then continue; fi
+            # Esclude cartelle tecniche e monkeyjob
+            if [[ "$foldername" == .* ]] || [[ "$foldername" == "monkeyjob" ]] || [[ "$foldername" == "node_modules" ]]; then continue; fi
             
-            # Cerca README all'interno della sottocartella
             SUB_README=$(find "$dir" -maxdepth 1 -iname "readme.md" | head -n 1)
             
             if [ -f "$SUB_README" ]; then
-              # Estrazione Icona
-              icon=$(grep -oE "[[:unicode:]]|[\x{1F300}-\x{1F9FF}]" "$SUB_README" | head -n 1 || echo "📂")
-              # Estrazione Descrizione (rimuove i pipe per la tabella)
+              # Estrazione Icona: cerchiamo il primo carattere speciale/emoji in modo compatibile
+              icon=$(grep -o -m 1 "[^[:alnum:][:space:][:punct:]]" "$SUB_README" | head -n 1)
+              if [ -z "$icon" ]; then icon="📂"; fi
+              
+              # Estrazione Descrizione
               desc=$(grep -v '^#' "$SUB_README" | grep -v '^$' | head -n 1 | sed 's/|/\\|/g' | xargs)
+              
               # Estrazione Status
-              stat=$(grep -i "Status:" "$SUB_README" | cut -d':' -f2 | xargs || echo "Stable")
+              stat=$(grep -i "Status:" "$SUB_README" | cut -d':' -f2 | xargs)
+              if [ -z "$stat" ]; then stat="Stable"; fi
               
               ROWS="${ROWS}\n| $icon | [**$foldername**](./$dir) | $desc | $stat |"
             fi
           done
 
-          # 3. Creazione file temporaneo con la tabella
+          # 3. Creazione file tabella temporaneo
           echo -e "$HEADER\n$SEPARATOR$ROWS" > table_content.txt
+          echo "Generated table content:"
+          cat table_content.txt
 
-          # 4. Iniezione nel README con gestione del pattern non trovato
-          if grep -q "" "$ROOT_README"; then
-            sed -i '//,//{ //{n; r table_content.txt
-            }; //p; d; }' "$ROOT_README"
+          # 4. Iniezione nel README usando marcatori espliciti
+          START_TAG=""
+          END_TAG=""
+
+          if grep -q "$START_TAG" "$ROOT_README"; then
+            # Sostituzione sicura: crea un file temporaneo e poi sovrascrive
+            sed -e "/$START_TAG/,/$END_TAG/!b" -e "/$START_TAG/!d;r table_content.txt" -e "a $END_TAG" "$ROOT_README" > README.tmp && mv README.tmp "$ROOT_README"
             echo "Successfully updated $ROOT_README"
           else
-            echo "Warning: Tags not found in $ROOT_README. Skipping injection."
+            echo "Warning: Tags $START_TAG not found in $ROOT_README."
           fi
-
-      - name: Commit and Push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "docs: update directory summary [automated]"
