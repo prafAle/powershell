@@ -17,58 +17,39 @@ jobs:
 
       - name: Generate Project Grid
         run: |
-          # 1. Trova il README della root
           ROOT_README=$(find . -maxdepth 1 -iname "readme.md" | head -n 1)
-          
-          if [ -z "$ROOT_README" ]; then
-            echo "Error: Root README.md not found!"
-            exit 1
-          fi
+          if [ -z "$ROOT_README" ]; then exit 1; fi
 
-          echo "Building table for: $ROOT_README"
           HEADER="| Type | Tool | Description | Status |"
           SEPARATOR="| :---: | :--- | :--- | :--- |"
           ROWS=""
 
-          # 2. Scansione sottocartelle
           for dir in */; do
             foldername=${dir%/}
-            # Esclude cartelle tecniche e monkeyjob
-            if [[ "$foldername" == .* ]] || [[ "$foldername" == "monkeyjob" ]] || [[ "$foldername" == "node_modules" ]]; then continue; fi
+            if [[ "$foldername" == .* ]] || [[ "$foldername" == "monkeyjob" ]]; then continue; fi
             
             SUB_README=$(find "$dir" -maxdepth 1 -iname "readme.md" | head -n 1)
-            
             if [ -f "$SUB_README" ]; then
-              # Estrazione Icona: cerca emoji o usa default
-              icon=$(grep -o -m 1 "[^[:alnum:][:space:][:punct:]]" "$SUB_README" | head -n 1)
-              if [ -z "$icon" ]; then icon="📂"; fi
-              
-              # Estrazione Descrizione
+              icon=$(grep -o -m 1 "[^[:alnum:][:space:][:punct:]]" "$SUB_README" | head -n 1 || echo "📂")
               desc=$(grep -v '^#' "$SUB_README" | grep -v '^$' | head -n 1 | sed 's/|/\\|/g' | xargs)
-              
-              # Estrazione Status
-              stat=$(grep -i "Status:" "$SUB_README" | cut -d':' -f2 | xargs)
-              if [ -z "$stat" ]; then stat="Stable"; fi
-              
+              stat=$(grep -i "Status:" "$SUB_README" | cut -d':' -f2 | xargs || echo "Stable")
               ROWS="${ROWS}\n| $icon | [**$foldername**](./$dir) | $desc | $stat |"
             fi
           done
 
-          # 3. Creazione file tabella temporaneo
-          echo -e "$HEADER\n$SEPARATOR$ROWS" > table_content.txt
+          # Costruiamo la tabella in una variabile
+          TABLE=$(echo -e "$HEADER\n$SEPARATOR$ROWS")
 
-          # 4. Iniezione nel README
-          START_TAG=""
-          END_TAG=""
-
-          if grep -q "$START_TAG" "$ROOT_README"; then
-            sed -e "/$START_TAG/,/$END_TAG/!b" -e "/$START_TAG/!d;r table_content.txt" -e "a $END_TAG" "$ROOT_README" > README.tmp && mv README.tmp "$ROOT_README"
-            echo "Successfully updated $ROOT_README"
-          else
-            echo "Warning: Tags $START_TAG not found in $ROOT_README."
-          fi
+          # Usiamo un trucco con AWK: è molto più affidabile di SED per sostituire blocchi di testo
+          awk -v r="$TABLE" '
+            BEGIN {p=1}
+            // {print; print r; p=0}
+            // {p=1}
+            p' "$ROOT_README" > temp_readme.md && mv temp_readme.md "$ROOT_README"
 
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "docs: update directory summary [automated]"
+          # Evitiamo di caricare i file temporanei se rimangono
+          file_pattern: 'README.md readme.md'
