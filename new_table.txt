@@ -1,5 +1,0 @@
-
-| Type | Tool | Description | Status |
-| :---: | :--- | :--- | :--- |
-|  | [**Convert-MSGtoEML**](./Convert-MSGtoEML/) | Automated PowerShell tool to convert Outlook .msg files to universal .eml format using local Outlook COM objects. Part of the **prafAle Optimization Suite**. | ** Stable |
-
