@@ -1,0 +1,7 @@
+Per implementare questo sistema in un nuovo repository:
+1) Copia il Workflow: Crea .github/workflows/update-readme.yml con il codice sopra.
+2) Abilita i Permessi: Vai in Settings > Actions > General > Workflow permissions e attiva "Read and write permissions".
+3) Aggiungi i Marcatori: Assicurati che il README principale abbia i commenti e.
+4) Sincronizzazione Icone: Nel README della sottocartella, metti un'emoji all'inizio del file (es: 🚀, 🎵, 🎬). Lo script la userà come "mini-miniatura" nella tabella riassuntiva.
+
+Questo permette di avere un repository sempre ordinato: basterà lavorare sui file (/ProjectName/readme.md) interni e la "vetrina" principale (/readme.md) si aggiornerà da sola con icone e stato del progetto.
