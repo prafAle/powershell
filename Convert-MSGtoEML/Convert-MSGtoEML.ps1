@@ -1,5 +1,5 @@
 # Convert-MSGtoEML.ps1
-# Optimization Tool by prafAle
+# Part of the prafAle Optimization Suite
 
 # --- ADMIN PRIVILEGES CHECK ---
 if (-NOT ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator")) {
@@ -12,7 +12,7 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
 # --- DEPENDENCY CHECK: Microsoft Outlook ---
 $outlookReg = Get-ItemProperty "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\outlook.exe" -ErrorAction SilentlyContinue
 if ($null -eq $outlookReg) {
-    Write-Host "Error: Microsoft Outlook is not installed. This tool requires Outlook to handle COM objects." -ForegroundColor Red
+    Write-Host "Error: Microsoft Outlook is not installed. This tool requires Outlook COM objects." -ForegroundColor Red
     Read-Host "Press Enter to exit"
     exit
 }
@@ -49,24 +49,22 @@ function Convert-MSGtoEML {
         return $false
     }
     finally {
-        # Force garbage collection to free up system resources
+        # Garbage collection for system stability
         [System.GC]::Collect()
         [System.GC]::WaitForPendingFinalizers()
     }
 }
 
-# --- MAIN SCRIPT ---
+# --- MAIN PROCESS ---
 $scriptPath = Split-Path -Parent $MyInvocation.MyCommand.Path
 $timestamp = Get-Date -Format "yyyyMMdd_HHmmss"
 $monkeyJobPath = Join-Path $scriptPath "monkeyjob"
 
-# Create monkeyjob directory if missing
 if (!(Test-Path $monkeyJobPath)) {
     New-Item -ItemType Directory -Path $monkeyJobPath -Force | Out-Null
-    Write-Host "[v] Monkeyjob folder created: $monkeyJobPath" -ForegroundColor Green
+    Write-Host "[v] Folder 'monkeyjob' created." -ForegroundColor Green
 }
 
-# Setup output folders for this session
 $emlFolder = Join-Path $monkeyJobPath "$timestamp-eml"
 $msgFolder = Join-Path $monkeyJobPath "$timestamp-msg"
 
@@ -77,22 +75,18 @@ Write-Host "========================================" -ForegroundColor Cyan
 Write-Host "       MSG TO EML CONVERTER             " -ForegroundColor Cyan
 Write-Host "========================================" -ForegroundColor Cyan
 Write-Host "Timestamp:  $timestamp" -ForegroundColor Yellow
-Write-Host "EML Output: $emlFolder" -ForegroundColor Yellow
-Write-Host "MSG Backup: $msgFolder" -ForegroundColor Yellow
 Write-Host ""
 
-# Find all .msg files in the script directory
 $msgFiles = Get-ChildItem -Path $scriptPath -Filter "*.msg"
 
 if ($msgFiles.Count -eq 0) {
-    Write-Host "(i) No .msg files found in: $scriptPath" -ForegroundColor Yellow
+    Write-Host "(i) No .msg files found in script directory." -ForegroundColor Yellow
     Write-Host "Press any key to exit..."
     $null = $Host.UI.RawUI.ReadKey("NoEcho,IncludeKeyDown")
     exit
 }
 
-Write-Host "Found $($msgFiles.Count) .msg files to convert" -ForegroundColor Green
-Write-Host ""
+Write-Host "Found $($msgFiles.Count) files to process..." -ForegroundColor Green
 
 $successCount = 0
 $errorCount = 0
@@ -102,37 +96,24 @@ foreach ($msgFile in $msgFiles) {
     $emlFilePath = Join-Path $emlFolder $emlFileName
     $msgDestPath = Join-Path $msgFolder $msgFile.Name
     
-    Write-Host "Processing: $($msgFile.Name) -> $emlFileName" -NoNewline
+    Write-Host "Converting: $($msgFile.Name) " -NoNewline
     
-    # Run Conversion
     if (Convert-MSGtoEML -MsgFilePath $msgFile.FullName -EmlFilePath $emlFilePath) {
-        # Move original .msg file to backup folder
         Move-Item -Path $msgFile.FullName -Destination $msgDestPath -Force
-        
-        Write-Host " [OK]" -ForegroundColor Green
+        Write-Host "[OK]" -ForegroundColor Green
         $successCount++
     } else {
-        Write-Host " [FAILED]" -ForegroundColor Red
+        Write-Host "[FAILED]" -ForegroundColor Red
         $errorCount++
     }
 }
 
-# Final Summary
-Write-Host ""
-Write-Host "========================================" -ForegroundColor Cyan
+Write-Host "`n========================================" -ForegroundColor Cyan
 Write-Host "           FINAL SUMMARY                " -ForegroundColor Cyan
 Write-Host "========================================" -ForegroundColor Cyan
-Write-Host "Processed files: $($msgFiles.Count)" -ForegroundColor White
+Write-Host "Total processed: $($msgFiles.Count)"
 Write-Host "Successful:      $successCount" -ForegroundColor Green
 Write-Host "Failed:          $errorCount"   -ForegroundColor Red
-Write-Host ""
-
-if ($errorCount -eq 0) {
-    Write-Host "[v] ALL CONVERSIONS COMPLETED SUCCESSFULLY" -ForegroundColor Green
-} else {
-    Write-Host "[!] SOME ERRORS OCCURRED DURING PROCESS" -ForegroundColor Red
-}
-
-Write-Host ""
-Write-Host "Press any key to close..."
+Write-Host "`nResults stored in: $monkeyJobPath" -ForegroundColor Yellow
+Write-Host "`nPress any key to close..."
 $null = $Host.UI.RawUI.ReadKey("NoEcho,IncludeKeyDown")
