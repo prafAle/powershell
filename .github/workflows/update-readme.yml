@@ -18,10 +18,10 @@ jobs:
       - name: Generate Project Grid
         run: |
           ROOT_README=$(find . -maxdepth 1 -iname "readme.md" | head -n 1)
-          if [ -z "$ROOT_README" ]; then exit 1; fi
-
+          
+          # Costruzione Tabella
           HEADER="| Type | Tool | Description | Status |"
-          SEPARATOR="| :---: | :--- | :--- | :--- |"
+          SEP="| :---: | :--- | :--- | :--- |"
           ROWS=""
 
           for dir in */; do
@@ -37,14 +37,12 @@ jobs:
             fi
           done
 
-          TABLE=$(echo -e "$HEADER\n$SEPARATOR$ROWS")
+          # Crea il blocco completo
+          echo -e "\n$HEADER\n$SEP$ROWS\n" > new_table.txt
 
-          # Sostituzione mirata con AWK usando i tag fissi
-          awk -v r="$TABLE" '
-            BEGIN {p=1}
-            // {print; print r; p=0}
-            // {p=1}
-            p' "$ROOT_README" > temp_readme.md && mv temp_readme.md "$ROOT_README"
+          # Sostituzione "atomica" del blocco
+          # Questo comando legge il file, trova il blocco tra i tag e lo sostituisce in un colpo solo
+          perl -0777 -pi -e 's/.*?/`cat new_table.txt`/sge' "$ROOT_README"
 
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
