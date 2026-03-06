@@ -163,6 +163,111 @@ It ships the analyzer app next to the HTML (see below).
 
 ***
 
+## Application Flow
+
+```mermaid
+---
+config:
+  layout: elk
+  theme: forest
+  look: classic
+---
+flowchart TB
+    A["Start Script"] --> B["Parse Parameters"]
+    B --> C{"Help?"}
+    C -- Yes --> D["Print Manual"]
+    D --> Z["End"]
+    C -- No --> E{"Wizard?"}
+    E -- Yes --> F["Run Interactive Wizard"]
+    F --> G["Apply Wizard Settings"]
+    E -- No --> H["Validate Path"]
+    G --> H
+    H --> I{"Path Valid?"}
+    I -- No --> J["Print Error"]
+    J --> Z
+    I -- Yes --> K["Create Root Node"]
+    K --> L["Initialize BFS Queue"]
+    L --> M{"Queue Empty?"}
+    M -- No --> N["Build Batch"]
+    N --> O["Spawn Parallel Workers"]
+    O --> P["Enumerate Directory"]
+    P --> Q{"Reparse Point?"}
+    Q -- Link --> R["Skip Node"]
+    Q -- Unknown --> R
+    Q -- Valid --> S["Process Files"]
+    S --> T["Create Node Objects"]
+    T --> U{"Extra Flags?"}
+    U -- Hash --> V["Compute Hash"]
+    U -- ACL --> W["Read ACL"]
+    U -- CreationTime --> X["Read Metadata"]
+    V --> Y["Add Metadata"]
+    W --> Y
+    X --> Y
+    Y --> AA{"Directory?"}
+    AA -- Yes --> AB["Enqueue Subdir"]
+    AA -- No --> AC["Continue"]
+    AB --> AD["Update Counters"]
+    AC --> AD
+    AD --> M
+    M -- Yes --> AE["Aggregate Results"]
+    AE --> AF{"Output Format"}
+    AF -- Console --> AG["Print Tree"]
+    AF -- Text --> AH["Write Text File"]
+    AF -- Json --> AI["Write JSON"]
+    AF -- Html --> AJ["Generate HTML Dashboard"]
+    AG --> Z
+    AH --> Z
+    AI --> Z
+    AJ --> Z
+
+    linkStyle 0 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 1 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 2 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 3 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 4 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 5 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 6 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 7 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 8 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 9 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 10 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 11 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 12 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 13 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 14 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 15 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 16 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 17 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 18 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 19 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 20 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 21 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 22 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 23 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 24 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 25 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 26 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 27 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 28 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 29 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 30 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 31 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 32 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 33 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 34 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 35 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 36 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 37 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 38 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 39 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 40 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 41 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 42 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 43 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 44 stroke:#00C853,stroke-width:4px,color:red,fill:none
+    linkStyle 45 stroke:#00C853,stroke-width:4px,color:red,fill:none
+```
+
 ## HTML Analyzer Architecture
 
 The Analyzer is a self-contained web app with a **modular** design, loaded from the same folder as the report HTML.
