@@ -1,6 +1,6 @@
 <#
 ===============================================================================
- GSCT.ps1  -  Generate Script Content Tree
+ GCT.ps1  -  Generate Script Content Tree
 ===============================================================================
 
  DESCRIPTION
@@ -65,7 +65,7 @@ elseif ($Log) {
     $OutputMode = "File"; $OutputFile = $Log
 }
 else {
-    $OutputMode = "File"; $OutputFile = Join-Path $FullPath "GSCT_output_$Timestamp.txt"
+    $OutputMode = "File"; $OutputFile = Join-Path $FullPath "GCT_output_$Timestamp.txt"
 }
 
 # Capture TREE BEFORE creating the output file
@@ -133,7 +133,7 @@ if ($OutputMode -eq "File") {
 }
 
 # HEADER
-Write-Out "GSCT - Generated Script Content Tree"
+Write-Out "GCT - Generated Script Content Tree"
 Write-Out "Analyzed path : $FullPath"
 Write-Out "Start time    : $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
 Write-Out "Files found   : $TotalFiles"
@@ -214,4 +214,5 @@ if ($ConsoleOnly) {
 } else {
     Write-Host "Processing completed." -ForegroundColor Green
     Write-Host "Generated file: $OutputFile"
+
 }
