@@ -1,6 +1,6 @@
 <#
 .FILENAME
-    treeAdv2.ps1
+    treeAdv.ps1
 
 .SYNOPSIS
     Advanced multi-threaded directory tree analyzer with BFS traversal
@@ -36,7 +36,7 @@ $ScriptRoot = Split-Path -Parent $MyInvocation.MyCommand.Path
 if($Help){
     # Help è semplice, non richiede bootstrap
     Write-Host ""
-    Write-Host "TreeAdv2 Help" -ForegroundColor Cyan
+    Write-Host "TreeAdv Help" -ForegroundColor Cyan
     Write-Host "=============" -ForegroundColor Cyan
     Write-Host ""
     Write-Host "Usage: treeAdv2.ps1 -Path <folder> [options]" -ForegroundColor White
@@ -201,4 +201,5 @@ if ($TreeAdvConfig.Profiler.Enable) {
     ForEach-Object {
         Write-Host "$($_.Key) $($_.Value.Duration)"
     }
+
 }
