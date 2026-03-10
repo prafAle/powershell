@@ -453,7 +453,6 @@ const EXT_TO_CAT = {
     ".oft":"EMAIL", ".emlxpart":"EMAIL", ".dwl":"EMAIL",
     ".emlx":"EMAIL", ".emlxpart":"EMAIL", ".emlxp":"EMAIL",
     ".emlx":"EMAIL", ".emlxpart":"EMAIL", ".emlxp":"EMAIL",
-    ".emlx":"EMAIL", ".emlxpart":"EMAIL", ".emlxp":"EMAIL",
     ".dbx":"EMAIL", ".mbx":"EMAIL", ".mbs":"EMAIL",
     ".mcb":"EMAIL", ".mdb":"DATABASE",  // Access DB
     ".mfw":"EMAIL", ".mim":"EMAIL", ".mime":"EMAIL",
@@ -911,7 +910,41 @@ function fa_renderLegend(containerId) {
     
     const box = document.getElementById(containerId);
     if (!box) {
-        if (window.__DEBUG__
+        if (window.__DEBUG__) console.warn("[Catalog] Legend container not found:", containerId);
+        return;
+    }
+    box.innerHTML = "";
+
+    // Build cat → [ext] mapping
+    const catMap = {};
+    for (const k in EXT_TO_CAT) {
+        const cat = EXT_TO_CAT[k] || "OTHER";
+        (catMap[cat] || (catMap[cat] = [])).push(k);
+    }
+
+    // Sort categories by name
+    const cats = Object.keys(catMap).sort();
+    
+    const useFA = fa_useFA();
+    
+    for (const cat of cats) {
+        const def = CAT_DEF[cat] || CAT_DEF.OTHER;
+        const color = def.color;
+        
+        // Get category icon
+        let iconHtml;
+        if (useFA) {
+            iconHtml = `<i class="fa-solid ${def.icon}" style="color: ${color};"></i>`;
+        } else {
+            iconHtml = def.emoji;
+        }
+        
+        // Sort extensions
+        catMap[cat].sort();
+
+        const wrap = document.createElement("div");
+        wrap.className = "legend-item";
+        wrap.innerHTML = `
             <span class="legend-color" style="background: ${color};"></span>
             <span class="legend-icon">${iconHtml}</span>
             <span class="legend-cat">${cat}</span>
